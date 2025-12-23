@@ -17,7 +17,7 @@ The project is divided into three main notebooks available in the `main` branch:
 
 * **`Data Visualization Final.ipynb`**: Contains the Exploratory Data Analysis (EDA).It covers univariate and bivariate analysis, handling of missing values, and outlier detection (e.g., negative fare amounts).
 * **`Feature_Selection_Methods.ipynb`**: details the methods used to reduce dimensionality and select the most relevant variables using Filter methods like ANOVA F-test and Mutual Information.
-* **`Model Training.ipynb`**: Includes the training pipeline, hyperparameter tuning (RandomSearchCV), and the final ensemble model creation using Tree-based algorithms.
+* **`Model Training Final.ipynb`**: Includes the training pipeline, hyperparameter tuning (RandomSearchCV), and the final ensemble model creation using Tree-based algorithms.
 
 ---
 
