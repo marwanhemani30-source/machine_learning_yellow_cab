@@ -1,7 +1,7 @@
 # NYC Yellow Taxi Fare Predictor
 
 ## Project Overview
-This project aims to predict the fare and duration of taxi trips in New York City to improve customer experience and transparency.By leveraging machine learning on historical trip data, this solution offers real-time estimates, allowing users to plan their trips and manage expenses effectively.
+This project aims to predict the fare and duration of taxi trips in New York City to improve customer experience and transparency. By using machine learning on historical trip data, this solution offers real-time estimates, allowing users to plan their trips and manage expenses effectively.
 
 The project encompasses the full data science lifecycle: from exploratory data analysis and geospatial feature engineering to model optimization and deployment via a web dashboard.
 
@@ -76,7 +76,7 @@ We developed a local dashboard using **Dash** to demonstrate the model's capabil
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 To run the notebooks, the following key libraries are required:
 * Python 3.x
 * Pandas / NumPy
